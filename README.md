@@ -16,12 +16,12 @@ https://www.youtube.com/watch?v=Ixl3nykKG9M&t=1s&pp=ygUhY29tcGxldGUgbWF0aCBmb3Ig
 
 5. Project 2 - 
 
+
+Pytorch Videos:
 Video Start Date: 2.9
 Completed Sections 1-2
 - Why use machine/deep learning
 - The number one rule of ML
-
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Took a short break from 2.10 until 3.01 due to schoolwork and poor health.
 
