@@ -1,5 +1,5 @@
 # Journey-to-Pytorch-Mastery
-The documentation of the struggles and challenges of an aspiring AI developer's journey to master a key library for deep learning. And to eventually understand deep neural networks, and eventually use that knowledge to implement deep learning and machine learning for my projects and products
+The documentation of the struggles and challenges of an aspiring AI developer's journey to master a key library for deep learning. And to eventually understand deep neural networks and use that knowledge to implement deep learning and machine learning for my projects and products.
 
 
 Timeline:
@@ -21,7 +21,9 @@ Completed Sections 1-2
 - Why use machine/deep learning
 - The number one rule of ML
 
-Took a short break from 2.10 until 3.01 due to schoolwork and poor health.
+------------------------------------------------------------------------------------------------------------------------------------------
+Took a short break for a bit due to schoolwork and poor health.
+-------------------------------------------------------------------------------------------------------------------------------------------
 
 3.08
 Completed Sections 3-6
