@@ -1,5 +1,5 @@
 # Journey-to-AI-Mastery
-The documentation of the struggles and challenges of an aspiring AI developer's journey to master key libraries for AI machine/deep learning. And to eventually understand deep neural networks and use that knowledge to implement deep learning and machine learning for my projects and products.
+The documentation of the struggles and challenges of an aspiring ai developer's journey to master essential libraries for AI and deep/machine learning. To harness the knowledge acquired for developing and implementing deep learning and machine learning projects, both personally and professionally.
 
 
 Timeline:
