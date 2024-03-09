@@ -22,8 +22,7 @@ Completed Sections 1-2
 - The number one rule of ML
 
 
-Took a short break for a bit due to schoolwork and poor health.
--------------------------------------------------------------------------------------------------------------------------------------------
+(Took a short break for a bit due to schoolwork and poor health.)
 
 3.08
 Completed Sections 3-6
