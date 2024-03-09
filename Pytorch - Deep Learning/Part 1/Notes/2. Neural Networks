@@ -1,0 +1,44 @@
+What are Neural Networks:
+Process:
+Inputs
+1. We take inputs such as images, text, and audio files, but since the computer can't understand these abstract concepts,
+
+Numerical Encoding
+2. Before the data can be used with a neural network it first has to be turned into numbers, we have to first represent the inputs as numbers, in order for the computer to understand
+(Transforming into tensors or matrixes)
+
+Patterns/Features/Weights
+3. Gets passed through to the neural network, inputs, manipulation and output, learns an representation that best fits the data that was passed through to it
+Input layers, Hidden layers, and the output layers
+The neural network learns the features and weights on its own by getting passed the data
+
+Represenation outputs
+4. Once the neural network has learned from the data, and then it outputs the representation that best fits the data that was passed through it
+Features, and weights matrix, weight tensors
+
+Outputs:
+5. We can now translate what the algorithm has determined, and convert the millions of data which can't be understand into data that can be understand by humans
+To be able to tell the difference between a bowl of ramen or spaghetti, or classifying a tweet as a disaster or not
+
+
+TLDR: We pass it inputs, that has to changed into numbers so that it can be understood by the network. Which then learns using the data, before giving an output back consisting of numbers, which is then translated
+into a medium that can be understood by humans
+
+
+Anatomy of Neural Networks:
+Input layers
+Where the data is passed to
+- units/neurons depend on the amount of inputs to the neural network
+
+Hidden layer(s)
+Learns patterns from the data that is passed through
+- you can have as many hidden layers as you need depending on the complexity of the problem that you are trying to solve
+- unit/neurons depend on the number of hidden layers in the neural network
+
+Output layers
+Outputs learned from the representation from the hidden layer
+- units/neurons depend on the number of outputs
+
+Overall Architecture
+(Patterns, embedding, weights, feature representation, and feature vectors all refer to simlar concepts)
+- each of the 3 different layers is a combination of linear and non-linear functions

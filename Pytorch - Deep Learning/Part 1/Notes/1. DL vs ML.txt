@@ -1,0 +1,50 @@
+Deep Learning:
+Pros:
+- problems with long lists of rules --> when its about the rules of driving a car with millions of rules, then deep learning can help
+- if the environment is constantly changing - deep learning can learn those new senarios and any others that might occur in the future, while if for regular implemtation you would have to rewrite the rules again
+eg when driving, you know your own neighbours very well, but once you leave your own neighbourhood you have to stop and think where to go, how fast to go
+- or if you are trying to find patterns in large data sets, it can be exaugsting and borderline impossible to handwrite rules for what hundreds of different foods look like
+
+Cons:
+- when you need to explain what is going on: eg. explaining how it works to non tech share holders or superiors
+- as the pattern's weights and biase increases, it also increases the complexity of the network, to the point where humans are unable to understand the patterns that the network are able to see,
+so they cant be understood by humans anymore.
+- the patterns of numbers often times have lists that have millions of things happening at the same times, which is quite difficult to understand understand
+- deep learning is not good when, you can't have errors, since the outputs of deep learning models arent the most predicatble, such as accuratly being able to tell if 
+- when coding your own rules is more efficient, if you can achieve the desired outcome with simple rules, then it is better to skip deep learning models
+- when there isnt much data, as models need a large amount of data to produce accurate results(there are ways to make your model more efficent even with a small amount of data)
+
+Deep Learning Common Algorithms:
+- Neural Networks
+- Fully connected neural network 
+- Transformers
+- Convolutional neural network
+- Recurrent neural network
+
+- Is better for unstructed data
+Eg. Natrual Language, text, images, audio files
+
+ 
+Machine Learning:
+Pros:
+ 
+Cons:
+
+
+Machine Learning Common Algorithms:
+(Shallow Algorithms after deep learning was modeled)
+- random forest
+- gradient boosted models
+- Naive Bayes
+- KNearest Neighbours
+- Support Algorithms
+
+- Uses structured data with rows and columns
+- gradient boosting, random forest
+
+
+
+Depending on what your problem statement is, you can use machine and deep learning for both structured and unstructed data
+
+
+

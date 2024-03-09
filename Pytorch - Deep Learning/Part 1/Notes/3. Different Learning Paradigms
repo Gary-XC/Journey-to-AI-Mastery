@@ -1,0 +1,27 @@
+Different Types of Learning:
+Supervised Learning
+- labeled data, inputs, and examples of what the inputs and outputs look like
+- eg. for pictures of cats and dogs, you know which pictures are which, in order for the algorithm to learn from its mistakes and what it got correct
+
+Unsupervised and Self-Supervised Learning 
+- dont have labeled data, so instead you rely on the algorithm to come to its own conclusions
+- figure out the difference in patterns bewteen images of cats and dogs, but the algorithm itself wouldn't know the difference between them
+- for self-supervised learning you can ask the algorithm for the patterns that it has learned, and you can give it names and catagorize the patterns
+- Unsupervised and Self-Supervised learns only from the data that has been provided
+
+Transfer Learning
+- Deep learning
+- Taking the patterns that one model has learned and transfers it to another model
+- The new model then can get a headstart in the learning process
+- We can transfer the patterns from the supervised cat and dog model to our own model which will then have a headstart
+- is very powerful
+
+
+
+
+
+
+
+
+
+

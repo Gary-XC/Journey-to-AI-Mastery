@@ -1,0 +1,19 @@
+What Is Deep Learning Actually Used For?
+Recomendation: recomending videos to watch, things on amazon that custumers might want to buy
+
+Sequence to Sequence: put something in, and you get something else out.
+- put in a sentence and get another sentence out for translations
+Translation: translating languages
+Speech Recognition: voice assistants
+
+Classification/Regression:
+- Predicting a number, guessing the coordinates of where the boxes corners should be, and a box would be drawn from the corners(Regression)
+- Classisflying 
+Computer Vison: secertity cameras, self driving cars, robots
+Natural Language Processing: deciding if two emails are spam or not
+
+
+
+
+
+
