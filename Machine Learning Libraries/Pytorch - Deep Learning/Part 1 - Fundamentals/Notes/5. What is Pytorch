@@ -1,0 +1,28 @@
+What is Pytorch?
+- most popular deep learning framework
+- able to write fast deep learning code in python
+- able to run one or multiple GPU's
+- has access to many pre-built deep learning models
+    - torchhub
+    - torchvision.models
+- is full stack, meaning that pytorch can do everything in the deep learning pipeline
+    - preprocess the data
+    - model the data
+    - and deploy your models
+- designed by meta, is now opensource and used by tesla, microsoft, and openai
+
+To check if pytorch and other libraries use cases in programs: https://paperswithcode.com/trends
+- pytorch is a scientific favourite
+
+Why use/learn Pytorch:
+Is used by a significant amount of influential companies:
+- tesla: computer vision
+- openai: standardizing in Pytorch --> ai research
+- meta/facebook: is building the future on Pytorch
+- microsoft
+- the increadible pytorch --> includes all of the projects that have built on top of pytorch
+- is used in agriculture
+
+Pytorch helps you by running your code accelerated on a GPU:
+- is very fast at calculating numbers
+- uses CUDA a parallel computing platform, that allows softare to use specific types of GPU for general purpose processing rather than just for gaming
