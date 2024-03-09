@@ -17,7 +17,8 @@ https://www.youtube.com/watch?v=Ixl3nykKG9M&t=1s&pp=ygUhY29tcGxldGUgbWF0aCBmb3Ig
 5. Project 2 - 
 
 
-Pytorch Videos:
+
+Pytorch Video:
 Video Start Date: 2.9
 Completed Sections 1-2
 - Why use machine/deep learning
