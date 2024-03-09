@@ -18,11 +18,19 @@ https://www.youtube.com/watch?v=Ixl3nykKG9M&t=1s&pp=ygUhY29tcGxldGUgbWF0aCBmb3Ig
 
 Video Start Date: 2.9
 Completed Sections 1-2
+- Why use machine/deep learning
+- The number one rule of ML
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Took a short break from 2.10 until 3.09 due to schoolwork and poor health.
+Took a short break from 2.10 until 3.01 due to schoolwork and poor health.
 
+3.08
+Completed Sections 3-6
+- Machine learning vs deep learning
+- Anatomy of neural networks
+- What can deep learning be used for
+- 
 
 
 
