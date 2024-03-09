@@ -12,10 +12,7 @@ https://www.youtube.com/watch?v=Ixl3nykKG9M&t=1s&pp=ygUhY29tcGxldGUgbWF0aCBmb3Ig
 
 3. Project 1 - Utilizing torch-vision - for scanning and picking out the important information from a document based on keywords given by the user
 - eg; dates, names, certain phrases, and topics
-- uses for this: studying using it to scan through an entire 
-
-5. Project 2 - 
-
+- uses for this: studying using it to scan through an entire document or notebook
 
 
 Pytorch Video:
