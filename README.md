@@ -25,11 +25,14 @@ Completed Sections 1-2
 (Took a short break for a bit due to schoolwork and poor health.)
 
 3.08
-Completed Sections 3-6
+Completed Sections 3-5
 - Machine learning vs deep learning
 - Anatomy of neural networks
 - What can deep learning be used for
-- 
+
+3.09
+Completed Sections 6
+- What is pytorch
 
 
 
