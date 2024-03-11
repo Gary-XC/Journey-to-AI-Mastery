@@ -1,5 +1,5 @@
 # Journey-to-AI-Mastery
-The documentation of the struggles and challenges of an aspiring ai developer's journey to master essential libraries for AI and deep/machine learning. To harness the knowledge acquired for developing and implementing deep learning and machine learning projects, both personally and professionally.
+The documentation of the struggles and challenges of an aspiring AI developer's journey to master essential libraries for AI and deep/machine learning. To harness the knowledge acquired for developing and implementing deep learning and machine learning projects, both personally and professionally.
 
 
 Timeline:
@@ -21,7 +21,7 @@ Completed Sections 1-2
 - The number one rule of ML
 
 
-(Took a short break for a bit due to schoolwork and poor health.)
+(I took a short break due to schoolwork and poor health.)
 
 3.08
 Completed Sections 3-5
@@ -31,7 +31,8 @@ Completed Sections 3-5
 
 3.09
 Completed Sections 6
-- What is pytorch
+- What is PyTorch
+- 
 
 
 
