@@ -12,10 +12,10 @@ With 4 Videos a day(each video is about 10 minutes, so around 40 minutes a day) 
 3. [SQL Complete Guide](https://www.youtube.com/watch?v=HXV3zeQKqGY)
 
 #### Data Visualization:
-3. Plotly/Seaborn/matplotlib
+4. Plotly/Seaborn/matplotlib
 
 #### Data Cleaning:
-4. Numpy/Pandas/SciPy
+5. Numpy/Pandas/SciPy
 
 
 Project 1 - Utilizing torch-vision - for scanning and picking out the important information from a document based on keywords given by the user
