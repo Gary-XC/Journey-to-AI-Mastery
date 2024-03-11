@@ -23,7 +23,7 @@ Project 1 - Utilizing torch-vision - for scanning and picking out the important 
 Project 2 - Classifier --> for finding news articles based on the news that you have selected/gave, and you 
 
 
-### Pytorch Video:
+### 1. Pytorch Video:
 
 Video Start Date: 2.9
 Completed Sections 1-2
