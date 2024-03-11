@@ -1,6 +1,5 @@
 # Journey-to-AI-Mastery
-The documentation of the struggles and challenges of an aspiring AI developer's journey to master essential libraries for AI and deep/machine learning. To harness the knowledge acquired for developing and implementing deep learning and machine learning projects, both personally and professionally.
-
+The documentation of the struggles and challenges of an aspiring AI developer's journey to master essential libraries for AI and deep/machine learning. To harness the knowledge acquired for developing and implementing deep learning and machine learning projects, both personally and professionally.  
 
 Timeline:
 ## Deep Learning and Neural Networks
@@ -11,9 +10,7 @@ With 4 Videos a day(each video is about 10 minutes, so around 40 minutes a day) 
 https://www.youtube.com/watch?v=Ixl3nykKG9M&t=1s&pp=ygUhY29tcGxldGUgbWF0aCBmb3IgbmV1cmFsIG5ldHdvcmtz
 
 ## Data Analysis
-3. [SQL Complete Guide](https://www.youtube.com/watch?v=HXV3zeQKqGY )
-
-
+3. [SQL Complete Guide](https://www.youtube.com/watch?v=HXV3zeQKqGY)   
 
 
 Project 1 - Utilizing torch-vision - for scanning and picking out the important information from a document based on keywords given by the user
