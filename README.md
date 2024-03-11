@@ -21,7 +21,7 @@ Completed Sections 1-2
 - The number one rule of ML
 
 
-(I took a short break due to schoolwork and poor health.)
+(I took a short break due to schoolwork and poor mental/physical health.)
 
 3.08
 Completed Sections 3-5
