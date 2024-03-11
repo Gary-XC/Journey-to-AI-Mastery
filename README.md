@@ -20,22 +20,42 @@ Completed Sections 1-2
 - Why use machine/deep learning
 - The number one rule of ML
 
-
 (I took a short break due to schoolwork and poor mental/physical health.)
 
 3.08
-Completed Sections 3-5
+Completed Sections 3-6
 - Machine learning vs deep learning
 - Anatomy of neural networks
+- Different learning paradigms
 - What can deep learning be used for
 
 3.09
-Completed Sections 6
-- What is PyTorch
+Completed Sections 7
+- What is/why PyTorch
 
 3.10
-Completed Sections 7
+Completed Sections 8
 - What are tensors
+
+3.11
+Completed Sections 9, 10
+- Outline
+- How to(and how not to) approach this course
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
