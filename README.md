@@ -3,11 +3,16 @@ The documentation of the struggles and challenges of an aspiring AI developer's 
 
 
 Timeline:
+##Deep Learning and Neural Networks
 1. [Pytorch Complete Guide](https://www.youtube.com/watch?v=Z_ikDlimN6A&t=2364s&pp=ygUHcHl0b3JjaA%3D%3D)
 With 4 Videos a day(each video is about 10 minutes, so around 40 minutes a day) we can finish the video in about 40 days
 
 2. Complete Mathematics behind Neural Networks and Deep Learning Video
 https://www.youtube.com/watch?v=Ixl3nykKG9M&t=1s&pp=ygUhY29tcGxldGUgbWF0aCBmb3IgbmV1cmFsIG5ldHdvcmtz
+
+##Data Analysis
+3. [SQL Complete Guide](https://www.youtube.com/watch?v=HXV3zeQKqGY )
+
 
 Project 1 - Utilizing torch-vision - for scanning and picking out the important information from a document based on keywords given by the user
 - eg; dates, names, certain phrases, and topics
