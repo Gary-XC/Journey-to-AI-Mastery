@@ -3,8 +3,7 @@ The documentation of the struggles and challenges of an aspiring ai developer's 
 
 
 Timeline:
-1. Pytorch Video
-[https://www.youtube.com/watch?v=Z_ikDlimN6A&t=2364s&pp=ygUHcHl0b3JjaA%3D%3D]
+1. [Pytorch Complete Guide](https://www.youtube.com/watch?v=Z_ikDlimN6A&t=2364s&pp=ygUHcHl0b3JjaA%3D%3D)
 With 4 Videos a day(each video is about 10 minutes, so around 40 minutes a day) we can finish the video in about 40 days
 
 2. Complete Mathematics behind Neural Networks and Deep Learning Video
