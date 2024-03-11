@@ -1,4 +1,4 @@
-# Journey-to-AI-Mastery
+# Journey to AI Mastery
 The documentation of the struggles and challenges of an aspiring AI developer's journey to master essential libraries for AI and deep/machine learning. To harness the knowledge acquired for developing and implementing deep learning and machine learning projects, both personally and professionally.  
 
 Timeline:
