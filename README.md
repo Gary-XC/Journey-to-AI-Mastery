@@ -32,8 +32,10 @@ Completed Sections 3-5
 3.09
 Completed Sections 6
 - What is PyTorch
-- 
 
+3.10
+Completed Sections 7
+- What are tensors
 
 
 
