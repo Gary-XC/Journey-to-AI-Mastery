@@ -1,22 +1,32 @@
-# Journey-to-AI-Mastery
-The documentation of the struggles and challenges of an aspiring AI developer's journey to master essential libraries for AI and deep/machine learning. To harness the knowledge acquired for developing and implementing deep learning and machine learning projects, both personally and professionally.
+# Journey to AI Mastery
+The documentation of the struggles and challenges of an aspiring AI developer's journey to master essential libraries for AI and deep/machine learning. To harness the knowledge acquired for developing and implementing deep learning and machine learning projects, both personally and professionally.  
 
-
-Timeline:
+# Timeline:
+## Deep Learning and Neural Networks
 1. [Pytorch Complete Guide](https://www.youtube.com/watch?v=Z_ikDlimN6A&t=2364s&pp=ygUHcHl0b3JjaA%3D%3D)
-With 4 Videos a day(each video is about 10 minutes, so around 40 minutes a day) we can finish the video in about 40 days
+With 4 Videos a day(each video is about 10 minutes, so around 40 minutes a day) it is possible to finish the video in about 40 days
 
-2. Complete Mathematics behind Neural Networks and Deep Learning Video
-https://www.youtube.com/watch?v=Ixl3nykKG9M&t=1s&pp=ygUhY29tcGxldGUgbWF0aCBmb3IgbmV1cmFsIG5ldHdvcmtz
+2. [Complete Mathematics For Neural Networks](https://www.youtube.com/watch?v=Ixl3nykKG9M&t=1s&pp=ygUhY29tcGxldGUgbWF0aCBmb3IgbmV1cmFsIG5ldHdvcmtz)
+
+## Data Analysis
+3. [SQL Complete Guide](https://www.youtube.com/watch?v=HXV3zeQKqGY)
+
+#### Data Visualization:
+4. Plotly/Seaborn/matplotlib
+
+#### Data Cleaning:
+5. Numpy/Pandas/SciPy
+
 
 Project 1 - Utilizing torch-vision - for scanning and picking out the important information from a document based on keywords given by the user
 - eg; dates, names, certain phrases, and topics
 - uses for this: studying using it to scan through an entire document or notebook
 
-Project 2 - Classifier --> for finding news articles based on the news that you have selected/gave, and you 
+Project 2 - Classifier --> for finding news articles based on the news that you have selected/given, and the program updates in the morning for the latest news
 
 
-Pytorch Video:
+### 1. Pytorch Video:
+
 Video Start Date: 2.9
 Completed Sections 1-2
 - Why use machine/deep learning
@@ -47,6 +57,12 @@ Completed Sections 9, 10
 - Getting setup
 
 
+
+### 2. Mathematics For Neural Networks:
+
+
+
+### 3. SQL Guide
 
 
 
