@@ -16,7 +16,7 @@ Project 1 - Utilizing torch-vision - for scanning and picking out the important 
 - eg; dates, names, certain phrases, and topics
 - uses for this: studying using it to scan through an entire document or notebook
 
-Project 2 - Classifier --> for finding news articles based on the news that you have selected/gave, and you 
+Project 2 - Classifier --> for finding news articles based on the news that you have selected/given, and the program updates in the morning for the latest news
 
 
 ### 1. Pytorch Video:
@@ -51,6 +51,12 @@ Completed Sections 9, 10
 - Getting setup
 
 
+
+### 2. Mathematics For Neural Networks:
+
+
+
+### 3. SQL Guide
 
 
 
