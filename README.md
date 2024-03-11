@@ -1,10 +1,9 @@
 # Journey-to-AI-Mastery
-The documentation of the struggles and challenges of an aspiring ai developer's journey to master essential libraries for AI and deep/machine learning. To harness the knowledge acquired for developing and implementing deep learning and machine learning projects, both personally and professionally.
+The documentation of the struggles and challenges of an aspiring AI developer's journey to master essential libraries for AI and deep/machine learning. To harness the knowledge acquired for developing and implementing deep learning and machine learning projects, both personally and professionally.
 
 
 Timeline:
-1. Pytorch Video
-https://www.youtube.com/watch?v=Z_ikDlimN6A&t=2364s&pp=ygUHcHl0b3JjaA%3D%3D
+1. [Pytorch Complete Guide](https://www.youtube.com/watch?v=Z_ikDlimN6A&t=2364s&pp=ygUHcHl0b3JjaA%3D%3D)
 With 4 Videos a day(each video is about 10 minutes, so around 40 minutes a day) we can finish the video in about 40 days
 
 2. Complete Mathematics behind Neural Networks and Deep Learning Video
@@ -22,13 +21,17 @@ Completed Sections 1-2
 - The number one rule of ML
 
 
-(Took a short break for a bit due to schoolwork and poor health.)
+(I took a short break due to schoolwork and poor mental/physical health.)
 
 3.08
-Completed Sections 3-6
+Completed Sections 3-5
 - Machine learning vs deep learning
 - Anatomy of neural networks
 - What can deep learning be used for
+
+3.09
+Completed Sections 6
+- What is PyTorch
 - 
 
 
