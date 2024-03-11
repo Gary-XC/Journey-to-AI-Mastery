@@ -1,0 +1,29 @@
+What are we going to cover in Pytorch?
+Resources:
+- Pytorch offical website
+- Articles: https://www.learnpytorch.io/
+
+In Part 1:
+- Pytorch basics and fundementals
+    - using and dealing with tensors and the operations that come with tensors
+
+In later Parts:
+- preprocessing data --> getting it ready for tensors to be able to manipulate
+- building and using pretrained deep learning models
+- fitting a model to the data --> in order for the model to find patterns from the data
+- making predictions with the model --> using the patterns that were found and making predictions on new data 
+- evaluating model predictions --> testing how well that data does(libraries that can calculate this for you, such as sklearn)
+- saving and loading models, so everytime you want to rerun the code, you don't have the retrain the model
+- using a trained model to make predictions on custum data
+
+
+Pytorch Workflow
+1. Get the data ready to turn into tensors
+2. Build or pick a pretrained model(that will fit your problem)
+    - pick a loss function and an optimizer
+    - build a training loop for higher accuracy for the data
+3. Fit the model to the data that you want to test on and make predictions
+4. Evaluate the model
+5. Improve the model through experimentation
+6. Save and reload the trained model
+
