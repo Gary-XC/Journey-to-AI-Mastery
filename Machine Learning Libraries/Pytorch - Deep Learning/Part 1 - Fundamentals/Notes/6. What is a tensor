@@ -1,1 +1,5 @@
 What is a Tensor?
+A tensor is a list of numbers that is transformed from the media of inputs of the neural network such as images, audio so that the neural network can understand them
+Then there are mathematical operations perfermed on those tensors 
+Tensors are then outputed from the neural network, before they are converted back into medium that humans can understand
+
