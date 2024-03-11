@@ -9,7 +9,13 @@ With 4 Videos a day(each video is about 10 minutes, so around 40 minutes a day) 
 2. [Complete Mathematics For Neural Networks](https://www.youtube.com/watch?v=Ixl3nykKG9M&t=1s&pp=ygUhY29tcGxldGUgbWF0aCBmb3IgbmV1cmFsIG5ldHdvcmtz)
 
 ## Data Analysis
-3. [SQL Complete Guide](https://www.youtube.com/watch?v=HXV3zeQKqGY)   
+3. [SQL Complete Guide](https://www.youtube.com/watch?v=HXV3zeQKqGY)
+
+#### Data Visualization:
+3. Plotly/Seaborn/matplotlib
+
+#### Data Cleaning:
+4. Numpy/Pandas/SciPy
 
 
 Project 1 - Utilizing torch-vision - for scanning and picking out the important information from a document based on keywords given by the user
