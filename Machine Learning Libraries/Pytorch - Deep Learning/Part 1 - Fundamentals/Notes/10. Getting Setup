@@ -1,0 +1,3 @@
+Getting Setup
+Video uses google colab, but I will be using VS Code, as I have the computational power to run Pytorch and use anaconda to manage version control and the virtual environment
+I also have cuda for pytorch enabled for faster computations
