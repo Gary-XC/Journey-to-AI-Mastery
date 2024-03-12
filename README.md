@@ -54,6 +54,8 @@ Completed Sections 8
 Completed Sections 9, 10
 - Outline
 - How to(and how not to) approach this course
+
+3.12
 - Important resources
 - Getting setup
 
