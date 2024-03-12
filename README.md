@@ -16,6 +16,7 @@ With 4 Videos a day(each video is about 10 minutes, so around 40 minutes a day) 
 
 #### Data Cleaning:
 5. Numpy/Pandas/SciPy
+6. Polars/Pyspark
 
 
 Project 1 - Utilizing torch-vision - for scanning and picking out the important information from a document based on keywords given by the user
@@ -63,6 +64,12 @@ Completed Sections 9, 10
 
 
 ### 3. SQL Guide
+
+
+### 6. Polars/PySpark
+[Polars](https://realpython.com/polars-python/)
+[PySpark Documentaion](https://domino.ai/data-science-dictionary/pyspark)
+
 
 
 
