@@ -16,6 +16,7 @@ With 4 Videos a day(each video is about 10 minutes, so around 40 minutes a day) 
 
 #### Data Cleaning:
 5. Numpy/Pandas/SciPy
+6. Polars/Pyspark
 
 
 Project 1 - Utilizing torch-vision - for scanning and picking out the important information from a document based on keywords given by the user
@@ -53,9 +54,14 @@ Completed Sections 8
 Completed Sections 9, 10
 - Outline
 - How to(and how not to) approach this course
+
+3.12
 - Important resources
 - Getting setup
+- Introduction to Tensors
 
+3.13
+- Creating Tensors
 
 
 ### 2. Mathematics For Neural Networks:
@@ -63,6 +69,12 @@ Completed Sections 9, 10
 
 
 ### 3. SQL Guide
+
+
+### 6. Polars/PySpark
+[Polars](https://realpython.com/polars-python/)
+[PySpark Documentaion](https://domino.ai/data-science-dictionary/pyspark)
+
 
 
 
