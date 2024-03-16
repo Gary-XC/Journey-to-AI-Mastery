@@ -58,7 +58,13 @@ Completed Sections 9, 10
 3.12
 - Important resources
 - Getting setup
+- Introduction to Tensors
 
+3.16
+- Creating Tensors
+
+
+(I might have to take a break or slow down considerably for the upcoming finals)
 
 
 ### 2. Mathematics For Neural Networks:
