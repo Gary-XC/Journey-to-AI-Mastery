@@ -60,8 +60,11 @@ Completed Sections 9, 10
 - Getting setup
 - Introduction to Tensors
 
-3.13
+3.16
 - Creating Tensors
+
+
+(I might have to take a break or slow down considerably for the upcoming finals)
 
 
 ### 2. Mathematics For Neural Networks:
