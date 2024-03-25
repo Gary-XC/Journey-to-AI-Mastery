@@ -35,7 +35,9 @@ Classifier --> for finding news articles based on the news that you have selecte
 - allows you to categorize the subjects however the user wants; eg: if you want to keep track of events that are currently occurring in the world, then you don't have to be interrupted by which sports team won the game last night
 - eg; if you are interested in specific sports teams and leagues
 
-### 1. Pytorch Video:
+
+
+## 1. Pytorch Video:
 
 Video Start Date: 2.9
 Completed Sections 1-2
