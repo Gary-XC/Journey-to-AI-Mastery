@@ -18,12 +18,16 @@ With 4 Videos a day(each video is about 10 minutes, so around 40 minutes a day) 
 5. Numpy/Pandas/SciPy
 6. Polars/Pyspark
 
+## Data Science Projects from Scratch --> [Step by Step Example](https://www.youtube.com/playlist?list=PL2zq7klxX5ASFejJj80ob9ZAnBHdz5O1t)
+Playlist goes over all the steps in creating a project from scratch:
+- Brainstorming and picking a project from topics and questions you have and are interested in
+- Goes over finding and scraping the data from online
 
-Project 1 - Utilizing torch-vision - for scanning and picking out the important information from a document based on keywords given by the user
+####Project 1 - Utilizing torch-vision - for scanning and picking out the important information from a document based on keywords given by the user
 - eg; dates, names, certain phrases, and topics
 - uses for this: studying using it to scan through an entire document or notebook
 
-Project 2 - Classifier --> for finding news articles based on the news that you have selected/given, and the program updates in the morning for the latest news
+####Project 2 - Classifier --> for finding news articles based on the news that you have selected/given, and the program updates in the morning for the latest news
 
 
 ### 1. Pytorch Video:
