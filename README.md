@@ -15,10 +15,19 @@ With 4 Videos a day(each video is about 10 minutes, so around 40 minutes a day) 
 
 #### Data Cleaning:
 2. Numpy/Pandas/SciPy
+- [Intro to Pandas](https://www.youtube.com/playlist?list=PLUaB-1hjhk8GZOuylZqLz-Qt9RIdZZMBE)
+- [Numpy for Machine Learning](https://www.youtube.com/playlist?list=PLCC34OHNcOtpalASMlX2HHdsLNipyyhbK)
+- [Intro to SciPy](https://www.youtube.com/playlist?list=PL1A5nGiCuuctkzARw3rfKIKUJEmby3X14)
 3. Polars/Pyspark
+- [Intro to Polars](https://www.youtube.com/playlist?list=PLo9Vi5B84_dfAuwJqNYG4XhZMrGTF3sBx)
+- [Intro to Pyspark](https://www.youtube.com/watch?v=_C8kWso4ne4&pp=ygUZY29tcGxldGUgZ3VpZGUgdG8gcHlzcGFyaw%3D%3D)
 
 #### Data Visualization:
 4. Plotly/Seaborn/matplotlib
+- [Intro to Plotly](https://www.youtube.com/playlist?list=PLBSCvBlTOLa8rf2kGkP_Bx5xXqT-er4Yq)
+- [Mastering Plotly](https://www.youtube.com/watch?v=GGL6U0k8WYA&pp=ygUYY29tcGxldGUgZ3VpZGUgdG8gcGxvdGx5)
+- [Full Seaborn Guide](https://www.youtube.com/playlist?list=PL4GjoPPG4VqOAwSNw2I-PXUcjw1frHmW2)
+- [Full Matplotlib Guide](https://www.youtube.com/watch?v=OZOOLe2imFo&pp=ygUcY29tcGxldGUgZ3VpZGUgdG8gbWF0cGxvdGxpYg%3D%3D)
 
 ## Data Science Projects from Scratch --> [Step by Step Example](https://www.youtube.com/playlist?list=PL2zq7klxX5ASFejJj80ob9ZAnBHdz5O1t)
 Playlist goes over all the steps in creating a project from scratch:
@@ -38,8 +47,8 @@ Classifier --> for finding news articles based on the news that you have selecte
 - eg; if you are interested in specific sports teams and leagues
 
 
-
-## 1. Pytorch Video:
+## Deep Learning and Neural Networks
+### 1. Pytorch Video:
 
 Video Start Date: 2.9
 Completed Sections 1-2
@@ -83,11 +92,11 @@ Completed Sections 9, 10
 - Tensor Datatypes
 
 
-### 2. Mathematics For Neural Networks:
+## Mathematics For Neural Networks:
 
 
 
-### 3. SQL Guide
+## Data Analysis 
 
 
 ### 6. Polars/PySpark
