@@ -97,6 +97,9 @@ Completed Sections 9, 10
 
 
 ## Data Analysis 
+2. Pandas:
+3.26
+- Started with GeekforGeeks Pandas Tutorial: [Selection and slicing: Pandas Extracting rows using .loc[]](https://www.geeksforgeeks.org/python-pandas-extracting-rows-using-loc/?ref=next_article)
 
 
 ### 6. Polars/PySpark
