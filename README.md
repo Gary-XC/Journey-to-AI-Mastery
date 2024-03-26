@@ -47,8 +47,8 @@ Classifier --> for finding news articles based on the news that you have selecte
 - eg; if you are interested in specific sports teams and leagues
 
 
-### Deep Learning and Neural Networks
-### Pytorch Video:
+## Deep Learning and Neural Networks
+### 1. Pytorch Video:
 
 Video Start Date: 2.9
 Completed Sections 1-2
@@ -96,7 +96,7 @@ Completed Sections 9, 10
 
 
 
-## Data Anaylsis 
+## Data Analysis 
 
 
 ### 6. Polars/PySpark
