@@ -11,14 +11,14 @@ With 4 Videos a day(each video is about 10 minutes, so around 40 minutes a day) 
 3. [Complete Mathematics For Neural Networks](https://www.youtube.com/watch?v=Ixl3nykKG9M&t=1s&pp=ygUhY29tcGxldGUgbWF0aCBmb3IgbmV1cmFsIG5ldHdvcmtz)
 
 ## Data Analysis
-3. [SQL Complete Guide](https://www.youtube.com/watch?v=HXV3zeQKqGY)
+1. [SQL Complete Guide](https://www.youtube.com/watch?v=HXV3zeQKqGY)
+
+#### Data Cleaning:
+2. Numpy/Pandas/SciPy
+3. Polars/Pyspark
 
 #### Data Visualization:
 4. Plotly/Seaborn/matplotlib
-
-#### Data Cleaning:
-5. Numpy/Pandas/SciPy
-6. Polars/Pyspark
 
 ## Data Science Projects from Scratch --> [Step by Step Example](https://www.youtube.com/playlist?list=PL2zq7klxX5ASFejJj80ob9ZAnBHdz5O1t)
 Playlist goes over all the steps in creating a project from scratch:
