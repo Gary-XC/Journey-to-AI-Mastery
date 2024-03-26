@@ -79,6 +79,9 @@ Completed Sections 9, 10
 
 (I might have to take a break or slow down considerably for the upcoming finals)
 
+3.26
+- Tensor Datatypes
+
 
 ### 2. Mathematics For Neural Networks:
 
