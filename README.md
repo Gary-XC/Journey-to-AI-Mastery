@@ -89,7 +89,11 @@ Completed Sections 9, 10
 (I might have to take a break or slow down considerably for the upcoming finals)
 
 3.26
-- Tensor Datatypes
+- 17. Tensor Datatypes
+
+3.28
+- 18. Tensor Attributes
+- 19. Manipulating Tensors
 
 
 ## Mathematics For Neural Networks:
