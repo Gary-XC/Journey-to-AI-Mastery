@@ -92,8 +92,14 @@ Completed Sections 9, 10
 - 17. Tensor Datatypes
 
 3.28
-- 18. Tensor Attributes
-- 19. Manipulating Tensors
+- 18 - Tensor Attributes
+- 19 - Manipulating Tensors
+ 
+3.30
+- Finding the min, max, mean, and sum (25)
+- Squeezing, unsqueezing, and permitting (26)
+- Selecting data (27)
+- Pytorch and Numpy (28)
 
 
 ## Mathematics For Neural Networks:
