@@ -89,11 +89,21 @@ Completed Sections 9, 10
 (I might have to take a break or slow down considerably for the upcoming finals)
 
 3.26
-- 17. Tensor Datatypes
+- Tensor Datatypes (17)
 
 3.28
-- 18. Tensor Attributes
-- 19. Manipulating Tensors
+- Tensor Attributes (18)
+- Manipulating Tensors (19)
+ 
+3.30
+- Matrix Multiplication (20)
+- Finding the min, max, mean, and sum (23)
+- Reshaping, viewing, and stacking (25)
+- Squeezing, unsqueezing, and permuting (26)
+
+ 3.31
+- Selecting data (27)
+- Pytorch and Numpy (28)
 
 
 ## Mathematics For Neural Networks:
