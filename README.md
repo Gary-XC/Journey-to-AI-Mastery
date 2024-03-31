@@ -97,8 +97,11 @@ Completed Sections 9, 10
  
 3.30
 - Matrix Multiplication (20)
-- Finding the min, max, mean, and sum (25)
+- Finding the min, max, mean, and sum (23)
+- Reshaping, viewing and stacking (25)
 - Squeezing, unsqueezing, and permitting (26)
+
+ 3.31
 - Selecting data (27)
 - Pytorch and Numpy (28)
 
