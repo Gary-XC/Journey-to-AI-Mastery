@@ -35,14 +35,9 @@ The playlist goes over all the steps in creating a project from scratch:
 - Goes over finding and scraping the data from online
 - Also goes over all the trial and error that was encountered while completing the project
 
-#### Project 1 (Computer Vision and )
+#### Project 1 - Document Insight Scanner using PyTorch and torch-vision
+Objectives:
 Create a powerful tool leveraging PyTorch and torch-vision libraries to scan documents, extract, and highlight key information based on user-defined keywords. This project aims to transform how users interact with large volumes of text, making searching for information more efficient and tailored to individual needs.
-
-Custom Keyword Recognition: Allows users to input specific keywords (e.g., dates, names, certain phrases, topics) to identify and highlight within the document.
-- Advanced Text Recognition: Utilizes state-of-the-art OCR (Optical Character Recognition) to process printed and handwritten text across various document formats accurately.
-- Contextual Analysis: Employs NLP (Natural Language Processing) to understand the context surrounding the keywords, ensuring relevant information is prioritized.
-- User-Centric Interface: Features an intuitive UI where users can upload documents, specify keywords, and view results in a user-friendly format.
-- Study Aid: Acts as an invaluable tool for students and researchers to scan through academic papers, textbooks, or notes, efficiently extracting information relevant to their studies.
 
 Features:
 - Custom Keyword Recognition: Allows users to input specific keywords (e.g., dates, names, certain phrases, topics) to identify and highlight within the document.
@@ -53,7 +48,8 @@ Features:
 
 
 
-#### Project 2 (Web scraping and recommender system)
+#### Project 2 - Adaptive News Classifier and Summarizer
+Objectives:
 Develop a dynamic news classifier that filters and presents news articles based on user preferences, with an emphasis on providing summarized content for lengthy articles. This project not only keeps users informed about their interests but also saves time by presenting concise summaries of complex or long articles.
 
 Features:
