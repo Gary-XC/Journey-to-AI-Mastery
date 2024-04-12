@@ -30,23 +30,23 @@ With 4 Videos a day(each video is about 10 minutes, so around 40 minutes a day) 
 - [Full Matplotlib Guide](https://www.youtube.com/watch?v=OZOOLe2imFo&pp=ygUcY29tcGxldGUgZ3VpZGUgdG8gbWF0cGxvdGxpYg%3D%3D)
 
 ## Data Science Projects from Scratch --> [Step by Step Example](https://www.youtube.com/playlist?list=PL2zq7klxX5ASFejJj80ob9ZAnBHdz5O1t)
-Playlist goes over all the steps in creating a project from scratch:
+The playlist goes over all the steps in creating a project from scratch:
 - Brainstorming and picking a project from topics and questions you have and are interested in
 - Goes over finding and scraping the data from online
 - Also goes over all the trial and error that was encountered while completing the project
 
 #### Project 1 (Computer Vision and )
-Create a powerful tool leveraging PyTorch and torchvision libraries to scan documents, extract, and highlight key information based on user-defined keywords. This project aims to transform the way users interact with large volumes of text, making the search for information more efficient and tailored to individual needs.
+Create a powerful tool leveraging PyTorch and torch-vision libraries to scan documents, extract, and highlight key information based on user-defined keywords. This project aims to transform how users interact with large volumes of text, making searching for information more efficient and tailored to individual needs.
 
 Custom Keyword Recognition: Allows users to input specific keywords (e.g., dates, names, certain phrases, topics) to identify and highlight within the document.
-- Advanced Text Recognition: Utilizes state-of-the-art OCR (Optical Character Recognition) to accurately process printed and handwritten text across various document formats.
+- Advanced Text Recognition: Utilizes state-of-the-art OCR (Optical Character Recognition) to process printed and handwritten text across various document formats accurately.
 - Contextual Analysis: Employs NLP (Natural Language Processing) to understand the context surrounding the keywords, ensuring relevant information is prioritized.
 - User-Centric Interface: Features an intuitive UI where users can upload documents, specify keywords, and view results in a user-friendly format.
 - Study Aid: Acts as an invaluable tool for students and researchers to scan through academic papers, textbooks, or notes, efficiently extracting information relevant to their studies.
 
 Features:
 - Custom Keyword Recognition: Allows users to input specific keywords (e.g., dates, names, certain phrases, topics) to identify and highlight within the document.
-- Advanced Text Recognition: Utilizes state-of-the-art OCR (Optical Character Recognition) to accurately process printed and handwritten text across various document formats.
+- Advanced Text Recognition: Utilizes state-of-the-art OCR (Optical Character Recognition) to process printed and handwritten text across various document formats accurately.
 - Contextual Analysis: Employs NLP (Natural Language Processing) to understand the context surrounding the keywords, ensuring relevant information is prioritized.
 - User-Centric Interface: Features an intuitive UI where users can upload documents, specify keywords, and view results in a user-friendly format.
 - Study Aid: Acts as an invaluable tool for students and researchers to scan through academic papers, textbooks, or notes, efficiently extracting information relevant to their studies.
