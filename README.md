@@ -39,18 +39,17 @@ Playlist goes over all the steps in creating a project from scratch:
 Create a powerful tool leveraging PyTorch and torchvision libraries to scan documents, extract, and highlight key information based on user-defined keywords. This project aims to transform the way users interact with large volumes of text, making the search for information more efficient and tailored to individual needs.
 
 Custom Keyword Recognition: Allows users to input specific keywords (e.g., dates, names, certain phrases, topics) to identify and highlight within the document.
-Advanced Text Recognition: Utilizes state-of-the-art OCR (Optical Character Recognition) to accurately process printed and handwritten text across various document formats.
-Contextual Analysis: Employs NLP (Natural Language Processing) to understand the context surrounding the keywords, ensuring relevant information is prioritized.
-User-Centric Interface: Features an intuitive UI where users can upload documents, specify keywords, and view results in a user-friendly format.
-Study Aid: Acts as an invaluable tool for students and researchers to scan through academic papers, textbooks, or notes, efficiently extracting information relevant to their studies.
+- Advanced Text Recognition: Utilizes state-of-the-art OCR (Optical Character Recognition) to accurately process printed and handwritten text across various document formats.
+- Contextual Analysis: Employs NLP (Natural Language Processing) to understand the context surrounding the keywords, ensuring relevant information is prioritized.
+- User-Centric Interface: Features an intuitive UI where users can upload documents, specify keywords, and view results in a user-friendly format.
+- Study Aid: Acts as an invaluable tool for students and researchers to scan through academic papers, textbooks, or notes, efficiently extracting information relevant to their studies.
 
 Features:
-
-Custom Keyword Recognition: Allows users to input specific keywords (e.g., dates, names, certain phrases, topics) to identify and highlight within the document.
-Advanced Text Recognition: Utilizes state-of-the-art OCR (Optical Character Recognition) to accurately process printed and handwritten text across various document formats.
-Contextual Analysis: Employs NLP (Natural Language Processing) to understand the context surrounding the keywords, ensuring relevant information is prioritized.
-User-Centric Interface: Features an intuitive UI where users can upload documents, specify keywords, and view results in a user-friendly format.
-Study Aid: Acts as an invaluable tool for students and researchers to scan through academic papers, textbooks, or notes, efficiently extracting information relevant to their studies.
+- Custom Keyword Recognition: Allows users to input specific keywords (e.g., dates, names, certain phrases, topics) to identify and highlight within the document.
+- Advanced Text Recognition: Utilizes state-of-the-art OCR (Optical Character Recognition) to accurately process printed and handwritten text across various document formats.
+- Contextual Analysis: Employs NLP (Natural Language Processing) to understand the context surrounding the keywords, ensuring relevant information is prioritized.
+- User-Centric Interface: Features an intuitive UI where users can upload documents, specify keywords, and view results in a user-friendly format.
+- Study Aid: Acts as an invaluable tool for students and researchers to scan through academic papers, textbooks, or notes, efficiently extracting information relevant to their studies.
 
 
 
@@ -58,12 +57,11 @@ Study Aid: Acts as an invaluable tool for students and researchers to scan throu
 Develop a dynamic news classifier that filters and presents news articles based on user preferences, with an emphasis on providing summarized content for lengthy articles. This project not only keeps users informed about their interests but also saves time by presenting concise summaries of complex or long articles.
 
 Features:
-
-Personalized News Feed: Customizable according to the user's interests, such as specific events, sports teams, technological advancements, etc.
-Daily Updates: Automated system to fetch the latest news each morning, ensuring the user is always up-to-date with their selected topics.
-Smart Summarization: AI-driven summarization tool that distills longer articles into concise, readable summaries, highlighting key points and information.
-User-Defined Categories: Enables users to create and modify categories based on their preferences, making the news feed highly customizable and relevant.
-Interactive Interface: A clean and engaging UI where users can easily select their interests, adjust preferences, and read both original and summarized articles.
+- Personalized News Feed: Customizable according to the user's interests, such as specific events, sports teams, technological advancements, etc.
+- Daily Updates: Automated system to fetch the latest news each morning, ensuring the user is always up-to-date with their selected topics.
+- Smart Summarization: AI-driven summarization tool that distills longer articles into concise, readable summaries, highlighting key points and information.
+- User-Defined Categories: Enables users to create and modify categories based on their preferences, making the news feed highly customizable and relevant.
+- Interactive Interface: A clean and engaging UI where users can easily select their interests, adjust preferences, and read both original and summarized articles.
 
 ## Deep Learning and Neural Networks
 ### 1. Pytorch Video:
