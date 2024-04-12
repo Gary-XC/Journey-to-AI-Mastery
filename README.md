@@ -63,6 +63,10 @@ Features:
 - User-Defined Categories: Enables users to create and modify categories based on their preferences, making the news feed highly customizable and relevant.
 - Interactive Interface: A clean and engaging UI where users can easily select their interests, adjust preferences, and read both original and summarized articles.
 
+
+
+
+
 ## Deep Learning and Neural Networks
 ### 1. Pytorch Video:
 
