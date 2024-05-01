@@ -30,21 +30,37 @@ With 4 Videos a day(each video is about 10 minutes, so around 40 minutes a day) 
 - [Full Matplotlib Guide](https://www.youtube.com/watch?v=OZOOLe2imFo&pp=ygUcY29tcGxldGUgZ3VpZGUgdG8gbWF0cGxvdGxpYg%3D%3D)
 
 ## Data Science Projects from Scratch --> [Step by Step Example](https://www.youtube.com/playlist?list=PL2zq7klxX5ASFejJj80ob9ZAnBHdz5O1t)
-Playlist goes over all the steps in creating a project from scratch:
+The playlist goes over all the steps in creating a project from scratch:
 - Brainstorming and picking a project from topics and questions you have and are interested in
 - Goes over finding and scraping the data from online
 - Also goes over all the trial and error that was encountered while completing the project
 
-#### Project 1 (Computer Vision and )
-Utilizing torch-vision - for scanning and picking out the important information from a document based on keywords given by the user
-- eg; dates, names, certain phrases, and topics
-- uses for this: studying using it to scan through an entire document or notebook
+#### Project 1 - Document Insight Scanner using PyTorch and torch-vision
+Objectives:
+Create a powerful tool leveraging PyTorch and torch-vision libraries to scan documents, extract, and highlight key information based on user-defined keywords. This project aims to transform how users interact with large volumes of text, making searching for information more efficient and tailored to individual needs.
 
-#### Project 2 (Web scraping and recommender system)
-Classifier --> for finding news articles based on the news that you have selected/given, and the program updates in the morning for the latest news
-- will summarize the more important and longer articles, based on the user's preference 
-- allows you to categorize the subjects however the user wants; eg: if you want to keep track of events that are currently occurring in the world, then you don't have to be interrupted by which sports team won the game last night
-- eg; if you are interested in specific sports teams and leagues
+Features:
+- Custom Keyword Recognition: Allows users to input specific keywords (e.g., dates, names, certain phrases, topics) to identify and highlight within the document.
+- Advanced Text Recognition: Utilizes state-of-the-art OCR (Optical Character Recognition) to process printed and handwritten text across various document formats accurately.
+- Contextual Analysis: Employs NLP (Natural Language Processing) to understand the context surrounding the keywords, ensuring relevant information is prioritized.
+- User-Centric Interface: Features an intuitive UI where users can upload documents, specify keywords, and view results in a user-friendly format.
+- Study Aid: Acts as an invaluable tool for students and researchers to scan through academic papers, textbooks, or notes, efficiently extracting information relevant to their studies.
+
+
+
+#### Project 2 - Adaptive News Classifier and Summarizer
+Objectives:
+Develop a dynamic news classifier that filters and presents news articles based on user preferences, with an emphasis on providing summarized content for lengthy articles. This project not only keeps users informed about their interests but also saves time by presenting concise summaries of complex or long articles.
+
+Features:
+- Personalized News Feed: Customizable according to the user's interests, such as specific events, sports teams, technological advancements, etc.
+- Daily Updates: Automated system to fetch the latest news each morning, ensuring the user is always up-to-date with their selected topics.
+- Smart Summarization: AI-driven summarization tool that distills longer articles into concise, readable summaries, highlighting key points and information.
+- User-Defined Categories: Enables users to create and modify categories based on their preferences, making the news feed highly customizable and relevant.
+- Interactive Interface: A clean and engaging UI where users can easily select their interests, adjust preferences, and read both original and summarized articles.
+
+
+
 
 
 ## Deep Learning and Neural Networks
