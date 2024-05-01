@@ -29,6 +29,9 @@ With 4 Videos a day(each video is about 10 minutes, so around 40 minutes a day) 
 - [Full Seaborn Guide](https://www.youtube.com/playlist?list=PL4GjoPPG4VqOAwSNw2I-PXUcjw1frHmW2)
 - [Full Matplotlib Guide](https://www.youtube.com/watch?v=OZOOLe2imFo&pp=ygUcY29tcGxldGUgZ3VpZGUgdG8gbWF0cGxvdGxpYg%3D%3D)
 
+#### Programming Languages:
+- [C++: Full Course](https://www.youtube.com/watch?v=vLnPwxZdW4Y)
+
 ## Data Science Projects from Scratch --> [Step by Step Example](https://www.youtube.com/playlist?list=PL2zq7klxX5ASFejJj80ob9ZAnBHdz5O1t)
 The playlist goes over all the steps in creating a project from scratch:
 - Brainstorming and picking a project from topics and questions you have and are interested in
