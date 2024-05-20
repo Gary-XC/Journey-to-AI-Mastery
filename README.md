@@ -2,6 +2,10 @@
 The documentation of the struggles and challenges of an aspiring AI developer's journey to master essential libraries and skills for AI and deep/machine learning. To harness the knowledge acquired for developing and implementing deep learning and machine learning projects, both personally and professionally.  
 
 # Timeline:
+
+## Machine Learning and Artificial Intelligence Frameworks
+- [15 Popular Machine Learning Frameworks for Model Training](https://www.projectpro.io/article/machine-learning-frameworks/509)
+
 ## Deep Learning and Neural Networks
 1. [Pytorch Complete Guide](https://www.youtube.com/watch?v=Z_ikDlimN6A&t=2364s&pp=ygUHcHl0b3JjaA%3D%3D)
 With 4 Videos a day(each video is about 10 minutes, so around 40 minutes a day) it is possible to finish the video in about 40 days
