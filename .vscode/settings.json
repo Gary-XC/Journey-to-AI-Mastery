@@ -2,21 +2,6 @@
     "sqltools.connections": [
         {
             "mysqlOptions": {
-                "authProtocol": "xprotocol",
-                "enableSsl": "Disabled"
-            },
-            "previewLimit": 50,
-            "server": "64.228.243.219",
-            "port": 3306,
-            "driver": "MySQL",
-            "name": "learningWorkbench",
-            "database": "TestDB",
-            "username": "root",
-            "password": "@Superjet123",
-            "connectionTimeout": 20
-        },
-        {
-            "mysqlOptions": {
                 "authProtocol": "default",
                 "enableSsl": "Disabled"
             },
@@ -26,8 +11,8 @@
             "driver": "MySQL",
             "name": "Local instance MySQL80",
             "username": "root",
-            "database": "learndb",
-            "password": "superjet123"
+            "database": "databases",
+            "askForPassword": true
         }
     ],
     "python.analysis.typeCheckingMode": "basic"
