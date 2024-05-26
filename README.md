@@ -5,6 +5,8 @@ The documentation of the struggles and challenges of an aspiring AI developer's 
 
 ## Machine Learning and Artificial Intelligence Frameworks
 - [15 Popular Machine Learning Frameworks for Model Training](https://www.projectpro.io/article/machine-learning-frameworks/509)
+- [Scikit-Learn – Full Course](https://www.youtube.com/watch?v=hDKCxebp88A)
+- [Keras - Full Course](https://www.youtube.com/watch?v=qFJeN9V1ZsI)
 
 ## Deep Learning and Neural Networks
 1. [Pytorch Complete Guide](https://www.youtube.com/watch?v=Z_ikDlimN6A&t=2364s&pp=ygUHcHl0b3JjaA%3D%3D)
