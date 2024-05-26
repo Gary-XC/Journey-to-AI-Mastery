@@ -1,0 +1,23 @@
+Pytorch Workflow:
+1. Getting the data ready to turn into tensors
+
+2. Building or picking a pretrained model that suits the problem
+    2.1 Pick a loss function and optimizer
+    2.2 Build a training loop
+
+3. Fit the model to the data and make a prediction
+
+4. Evaluate the model
+
+5. Improve the model through experimentation
+
+6. Save and reload your model - to make predictions on other datasets and problems'
+
+
+Where Can You Get Help?
+- Follow along with the code
+- Try it for yourself
+- Read the docstring
+- Search for the problem on stack overflow
+- Ask the question
+
