@@ -130,6 +130,10 @@ Completed Sections 9, 10
 - Selecting data (27)
 - Pytorch and Numpy (28)
 
+5.26
+- Finished Part 0: Fundamentals
+- Starting on Part 1: Pytorch Workflow
+
 
 ## Mathematics For Neural Networks:
 
