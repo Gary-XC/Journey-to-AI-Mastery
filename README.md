@@ -4,6 +4,7 @@ The documentation of the struggles and challenges of an aspiring AI developer's 
 # Timeline:
 
 ## Machine Learning and Artificial Intelligence Frameworks
+- [All Learning Algorithms](https://www.youtube.com/watch?v=BT6Aw6Q75Yg)
 - [15 Popular Machine Learning Frameworks for Model Training](https://www.projectpro.io/article/machine-learning-frameworks/509)
 - [Scikit-Learn – Full Course](https://www.youtube.com/watch?v=hDKCxebp88A)
 - [Keras - Full Course](https://www.youtube.com/watch?v=qFJeN9V1ZsI)
