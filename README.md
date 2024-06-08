@@ -135,6 +135,9 @@ Completed Sections 9, 10
 - Finished Part 0: Fundamentals
 - Starting on Part 1: Pytorch Workflow
 
+6.8
+- Finished Part 1: Pytorch Workflow
+- Starting on Part 2: Neural Network Classification
 
 ## Mathematics For Neural Networks:
 
