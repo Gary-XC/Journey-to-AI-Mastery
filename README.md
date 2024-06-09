@@ -51,7 +51,7 @@ Create a powerful tool leveraging PyTorch and torch-vision libraries to scan doc
 
 Features:
 - Custom Keyword Recognition: Allows users to input specific keywords (e.g., dates, names, certain phrases, topics) to identify and highlight within the document.
-- Advanced Text Recognition: Utilizes state-of-the-art OCR (Optical Character Recognition) to process printed and handwritten text across various document formats accurately.
+- Text Recognition: Processes printed and handwritten text across various document formats accurately.
 - Contextual Analysis: Employs NLP (Natural Language Processing) to understand the context surrounding the keywords, ensuring relevant information is prioritized.
 - User-Centric Interface: Features an intuitive UI where users can upload documents, specify keywords, and view results in a user-friendly format.
 - Study Aid: Acts as an invaluable tool for students and researchers to scan through academic papers, textbooks, or notes, efficiently extracting information relevant to their studies.
@@ -135,6 +135,9 @@ Completed Sections 9, 10
 - Finished Part 0: Fundamentals
 - Starting on Part 1: Pytorch Workflow
 
+6.8
+- Finished Part 1: Pytorch Workflow
+- Starting on Part 2: Neural Network Classification
 
 ## Mathematics For Neural Networks:
 
