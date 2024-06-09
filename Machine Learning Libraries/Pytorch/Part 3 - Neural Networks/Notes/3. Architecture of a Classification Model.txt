@@ -1,0 +1,16 @@
+Architecture of a Classification Model:
+
+Hyper-parameters:
+- Input Layer Shape (inFeatures)
+- Hidden Layers
+- Output Layer Shape (outFeatures)
+- Hidden Layer Activation
+- Loss Function
+- Optimizer
+
+Binary Classification:
+Need to convert things like male or female to 0 or 1 --> since tensors are only made up of numbers
+
+Multiclass Classification:
+- is similar to binary classification, but there will be more labels to encode to numbers
+- for example with three output predictions there will have to be 3 different numbers that represent each class

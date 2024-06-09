@@ -1,0 +1,23 @@
+Neural Network Classification with Pytorch
+
+What is a Classification Problem:
+- Is this email spam or not spam? --> Binary Classification(one thing or another, split into spam or not spam)
+- Is this a photo of sushi, steak or pizza -->  Classification(more than one thing or another)
+- What tags should this article have? -->  Multi-label Classification(more than one label per image or sample)
+
+Binary vs Multi Classification:
+Binary: Cats, dogs are the only animals that are included and that the model is being tested on
+Multiclass: If chickens are also added to the cats and dogs Classification then it is a Multiclass Classification as there are more than 2 things to classify
+
+What We Are Going To Cover:
+- Architecture of a neural network classification model
+- Input and Output shapes of a classification model (features and labels)
+- Creating custom data to view, fit and predict on
+- Steps in modeling:
+    - Creating a model
+    - Setting loss and optimizer function
+    - Creating a training loop
+    - Evaluating a model
+- Saving and loading models
+- Harnessing the power of non-linearity
+- Different classification evaluation methods

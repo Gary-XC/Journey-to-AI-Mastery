@@ -1,0 +1,30 @@
+Classification Model:
+Inputs --> Machine Learning Algorithm --> Outputs
+
+Inputs:
+Photos
+    - photos are automatically resized to 244 by 244 (height and width) and the colour channel C
+    - numerical encoding --> normalizing pixel values
+
+Machine Learning Algorithm:
+- Often already exists, and if not build one
+
+Outputs:
+- Outputs a tensor of the predicted tensor
+- Closer to a cat then to a dog, then the value for cat will be much higher then the value for a dog
+- Actual Output: Labels from the tensor (predicted output) --> [0.97, 0.00, 0.03]
+
+Input and Output Shapes:
+(For an image classification example)
+- Encode a photo 224 by 224 to a tensor of numbers, which is the input 
+- Then give it to the machine learning algorithms
+- Then the machine learning algorithm will provide an output of the prediction probability where the closer the number is to 1 
+the more sure the algorithm is certain that the output is a photo of a cat
+
+Input Tensor Size:
+shape = [batchSize, colourChannels width, height] or [32, 3, 224, 224]
+
+Output Tensor Size:
+- The output tensor has a shape of three as there are a total of 3 different classes in the data set: pizza, steak, and sushi
+
+(Input and Output vary depending on the problem)
