@@ -18,5 +18,6 @@
     "python.analysis.typeCheckingMode": "basic",
     "cSpell.words": [
         "unsqueeze"
-    ]
+    ],
+    "python.analysis.autoImportCompletions": true
 }
