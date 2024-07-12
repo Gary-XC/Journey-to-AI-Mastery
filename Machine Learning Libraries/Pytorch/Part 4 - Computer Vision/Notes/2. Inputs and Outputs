@@ -1,0 +1,10 @@
+Computer Vision Inputs and Outputs:
+1. Start with an image with a height and width (colour channel of 3: RGB)
+2. Encode the images to tensors (normalized pixel values - or Numerical Encoding)
+3. Machine Learning Algorithm
+4. Predicted output (tensors, prediction probability for each class of the classification model)
+5. Actual Outputs (could offer additional information about the output label or show more images of the predicted item)
+
+Input Output Shapes:
+- Making sure that the tensor output and input shapes line up with each other
+- Make sure the the output shape fits the specific problem
