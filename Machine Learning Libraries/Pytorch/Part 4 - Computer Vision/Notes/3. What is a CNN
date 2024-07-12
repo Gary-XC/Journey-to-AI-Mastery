@@ -1,0 +1,10 @@
+What Is A Convolutional Neural Networks (CNN):
+- Input Layer, and multiple hidden layers that perform mathematical operations on the data 
+
+Hyperparameters/Layer Types:
+Input Layers - takes in target image layers (photos or videos)
+Convolution Layer - extracts and learns the most important features from the target images (input_shape)
+Hidden Activation/non-linear activation - adds non-linearity to the features that were learned (torch.nn.ConvXD)
+Pooling Layer - reduces the number of dimensions of the learned image features (Max: torch.nn.MaxPool2d(), Average: torch.nn.AvgPool2d)
+Output/linear layer - takes the learned features and outputs them in the shape of target values (torch.nnn.Linear(# of classes))
+Output Activation - converts the output logits to prediction probabilities
