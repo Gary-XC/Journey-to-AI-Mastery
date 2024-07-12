@@ -139,6 +139,10 @@ Completed Sections 9, 10
 - Finished Part 1: Pytorch Workflow
 - Starting on Part 2: Neural Network Classification
 
+7.11
+- Finished Part 2: Neural Network Classification
+- Starting on Part 3: Computer Vision
+
 ## Mathematics For Neural Networks:
 
 
