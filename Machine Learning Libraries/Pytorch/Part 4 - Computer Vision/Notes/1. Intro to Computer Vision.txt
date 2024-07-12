@@ -1,0 +1,19 @@
+Computer Vision and Convolutional Neural Networks With Pytorch:
+    - Model learns by itself from different patterns in the images that it trains on
+
+Uses:
+- Object detection (segmentation - the different sections oin the image: people, skin, hair, sky)
+- Classification
+
+Tesla Computer Vision:
+- 8 cameras -> neural network -> 3d vector space
+
+Topics Covered:
+- vision data set to work with torchvision.datasets
+- architecture of a convolution neural network (CNN) in Pytorch
+- end to end multiclass image classification problem
+- steps in modelling with CNNs in Pytorch:
+    - Creating a CNN in Pytorch
+    - picking loss and optimizer
+    - training a modelling
+    - evaluating a model
