@@ -17,6 +17,7 @@
     ],
     "python.analysis.typeCheckingMode": "basic",
     "cSpell.words": [
+        "MNIST",
         "unsqueeze"
     ],
     "python.analysis.autoImportCompletions": true
