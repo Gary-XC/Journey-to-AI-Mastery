@@ -8,3 +8,17 @@ Hidden Activation/non-linear activation - adds non-linearity to the features tha
 Pooling Layer - reduces the number of dimensions of the learned image features (Max: torch.nn.MaxPool2d(), Average: torch.nn.AvgPool2d)
 Output/linear layer - takes the learned features and outputs them in the shape of target values (torch.nnn.Linear(# of classes))
 Output Activation - converts the output logits to prediction probabilities
+
+CNN's or ConvNets:
+- known for their ability to find patterns in visual data
+
+Architecture of a CNN:
+1. Inputs - images 
+2. Processed Inputs - the images get turned into many tensors (RGB - 3 channels)
+3. Layers - the processed inputs then get passed through many layers including: Convolutional, ReLU and pooling layers (these layers can be combined in many different ways )
+4. Linear output layer - after the model is done, then it outputs a value for the number of classes in the dataset
+
+    Deeper CNN:
+    - it is possible to add multiple deep learning layers for more complex problems, with each layer receiving the data from the previous layer
+
+CNN Explainer Website: https://poloclub.github.io/cnn-explainer/
