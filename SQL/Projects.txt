@@ -1,0 +1,17 @@
+https://www.dataquest.io/blog/sql-projects/
+
+Beginner SQL Projects
+Analyzing Kick starter Projects
+Analyzing Startup Fundraising Deals from Crunch base
+Analyzing CIA Fact book Data Using SQL
+Exploring Squirrel Census Data
+Designing and Creating a Database
+
+Intermediate SQL Projects
+Customers and Products Analysis Using SQL
+Building a Database for Crime Reports
+Answering Business Questions using SQL
+
+Advanced SQL Projects
+SQL Window Functions for North wind Traders
+Fraud Detection with SQL
