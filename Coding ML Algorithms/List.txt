@@ -1,0 +1,11 @@
+10 Commonly Used Machine Learning Algorithms
+Linear regression
+Logistic regression
+Decision tree
+SVM algorithm
+Naive Bayes algorithm
+KNN algorithm
+K-means
+Random forest algorithm
+Dimensionality reduction algorithms
+Gradient boosting algorithm and AdaBoosting algorithm
